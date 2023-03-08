@@ -1,4 +1,4 @@
-# flutter_solfa_MVP-clone UI Demo
+# _solfa_ UI Demo
 
 A sample application to show  flutter_solfa_MVP-clone
 
@@ -28,4 +28,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-Presentations are due this week 🤣 wueeehhhh.
+## Authors
+Benson Mogambi - [Github](https://github.com/bensonmogambi)  [LinkedIn](https://linkedin.com/bensonmogambi)
