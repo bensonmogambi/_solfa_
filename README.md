@@ -1,4 +1,4 @@
-# _solfa_ UI Demo
+# _solfa_ UI Demo.
 
 A sample application to show  flutter_solfa_MVP-clone
 
