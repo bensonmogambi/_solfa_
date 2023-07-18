@@ -1,10 +1,10 @@
 # _solfa_ UI Demo.
 
+
 A sample application to show  flutter_solfa_MVP-clone
 
 # Demo
 <img height="580px" width="350px" src="https://github.com/flutter-devs/flutter_paytm_clone/blob/master/screens/demo.gif">
-
 
 
 
@@ -31,5 +31,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Authors
 Benson Mogambi - [Github](https://github.com/bensonmogambi)  [LinkedIn](https://www.linkedin.com/in/benson-mogambi-a5b201213/)
-
-
