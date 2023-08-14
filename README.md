@@ -1,7 +1,7 @@
 # _solfa_ UI Demo.
 
 
-A sample application to show  flutter_solfa_MVP-clone
+A sample application to show  flutter_solfa_MVP-clone.
 
 # Demo
 <img height="580px" width="350px" src="https://github.com/flutter-devs/flutter_paytm_clone/blob/master/screens/demo.gif">
